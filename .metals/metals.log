@@ -1653,3 +1653,4 @@ ADVERTENCIA: Unmatched cancel notification for request id 155
 jul 28, 2025 12:48:43 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
 ADVERTENCIA: Unmatched cancel notification for request id 164
 2025.07.28 12:52:30 INFO  compiling etl-weather-pipeline (1 scala source)
+2025.07.28 12:52:31 INFO  time: compiled etl-weather-pipeline in 1.43s
