@@ -1,4 +1,0 @@
-[debug] [etl-weather-pipeline-test] Classpath dependencies List()
-[debug] [etl-weather-pipeline-test] Dependencies from configurations List(etl-weather-pipeline)
-[debug] Bloop wrote the configuration of project 'etl-weather-pipeline-test' to '/home/jorales/Documentos/Projects/etl-weather-pipeline/.bloop/etl-weather-pipeline-test.json'
-[success] Generated .bloop/etl-weather-pipeline-test.json
