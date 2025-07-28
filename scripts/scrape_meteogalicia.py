@@ -44,3 +44,8 @@ df.drop(columns=["hora", "punto_rocio", "presion", "viento_direccion", "solar"],
 os.makedirs("data/raw", exist_ok=True)
 df.to_csv("data/raw/santiago_real_weather.csv", index=False)
 print("✅ CSV generado con datos reales.")
+
+# This script scrapes real-time weather data from the Meteogalicia website for Santiago de Compostela.
+# It uses Selenium to navigate the site and extract data from a specific table.
+# The data is then processed with pandas to create a structured DataFrame, which is saved as a CSV file.
+# The script ensures that the necessary directories exist before saving the file.   

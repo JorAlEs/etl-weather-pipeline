@@ -1,0 +1,31 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+
+# Data folders
+data/raw/
+data/clean/
+
+# Log files
+*.log
+
+# Spark output
+*.crc
+
+# Python virtual environments
+.venv/
+env/
+venv/
+
+# Scala + sbt build folders
+target/
+project/target/
+project/project/
+
+# VS Code settings
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
+

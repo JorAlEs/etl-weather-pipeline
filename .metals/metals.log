@@ -1624,3 +1624,32 @@ INFORMACIÓN: Unsupported notification method: $/setTrace
 2025.07.28 12:40:40 INFO  no build target found for /home/jorales/Documentos/Projects/etl-weather-pipeline/project/metals.sbt. Using presentation compiler with project's scala-library version: 2.12.20
 2025.07.28 12:40:42 INFO  no build target found for /home/jorales/Documentos/Projects/etl-weather-pipeline/project/project/metals.sbt. Using presentation compiler with project's scala-library version: 2.12.20
 2025.07.28 12:40:42 INFO  no build target found for /home/jorales/Documentos/Projects/etl-weather-pipeline/project/project/metals.sbt. Using presentation compiler with project's scala-library version: 2.12.20
+jul 28, 2025 12:41:32 P. M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFORMACIÓN: Unsupported notification method: $/setTrace
+jul 28, 2025 12:45:07 P. M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFORMACIÓN: Unsupported notification method: $/setTrace
+jul 28, 2025 12:47:50 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 79
+jul 28, 2025 12:47:50 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 82
+jul 28, 2025 12:47:50 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 84
+jul 28, 2025 12:47:50 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 85
+jul 28, 2025 12:48:42 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 136
+jul 28, 2025 12:48:42 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 146
+jul 28, 2025 12:48:42 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 147
+jul 28, 2025 12:48:42 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 148
+jul 28, 2025 12:48:42 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 150
+jul 28, 2025 12:48:42 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 154
+jul 28, 2025 12:48:42 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 155
+jul 28, 2025 12:48:43 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 164
+2025.07.28 12:52:30 INFO  compiling etl-weather-pipeline (1 scala source)
