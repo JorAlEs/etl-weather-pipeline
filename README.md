@@ -176,7 +176,7 @@ MIT License
 ## 🙋‍♂️ Author
 
 **Jorge Miguel Espinosa**  
-[GitHub](https://github.com/JorAlEs) | [LinkedIn](https://www.linkedin.com/in/tu-linkedin-aqui/)
+[GitHub](https://github.com/JorAlEs) | [LinkedIn](https://www.linkedin.com/in/jorge-alc%C3%A1ntara-espinosa-570055356/)
 
 ---
 
