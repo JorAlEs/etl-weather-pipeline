@@ -16,6 +16,7 @@ data/clean/
 .venv/
 env/
 venv/
+.env
 
 # Scala + sbt build folders
 target/
