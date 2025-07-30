@@ -30,3 +30,7 @@ project/project/
 .DS_Store
 Thumbs.db
 
+
+#Big Files
+
+*.deb
