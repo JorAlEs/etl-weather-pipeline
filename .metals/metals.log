@@ -1660,3 +1660,32 @@ jul 28, 2025 2:13:33 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCance
 ADVERTENCIA: Unmatched cancel notification for request id 557
 jul 28, 2025 2:18:45 P. M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
 INFORMACIÓN: Unsupported notification method: $/setTrace
+2025.07.28 14:20:47 INFO  running '/usr/bin/sbt -Dbloop.export-jar-classifiers=sources bloopInstall'
+2025.07.28 14:20:49 INFO  [info] welcome to sbt 1.11.3 (Ubuntu Java 17.0.15)
+2025.07.28 14:20:50 INFO  [info] loading settings for project etl-weather-pipeline-build-build from metals.sbt...
+2025.07.28 14:20:50 INFO  [info] loading project definition from /home/jorales/Documentos/Projects/etl-weather-pipeline/project/project
+2025.07.28 14:20:52 INFO  [info] loading settings for project etl-weather-pipeline-build from metals.sbt...
+2025.07.28 14:20:52 INFO  [info] loading project definition from /home/jorales/Documentos/Projects/etl-weather-pipeline/project
+2025.07.28 14:20:54 INFO  [success] Generated .bloop/etl-weather-pipeline-build.json
+2025.07.28 14:20:54 INFO  [success] Total time: 2 s, completed 28 jul 2025 14:20:54
+2025.07.28 14:20:56 INFO  [info] loading settings for project etl-weather-pipeline from build.sbt...
+2025.07.28 14:20:56 INFO  [info] set current project to ETLWeatherHealth (in build file:/home/jorales/Documentos/Projects/etl-weather-pipeline/)
+2025.07.28 14:21:00 INFO  [success] Generated .bloop/etl-weather-pipeline-test.json
+2025.07.28 14:21:00 INFO  [success] Generated .bloop/etl-weather-pipeline.json
+2025.07.28 14:21:00 INFO  [success] Total time: 4 s, completed 28 jul 2025 14:21:00
+2025.07.28 14:21:01 INFO  time: ran 'sbt bloopInstall' in 13s
+2025.07.28 14:21:01 INFO  Disconnecting from Bloop session...
+2025.07.28 14:21:01 INFO  Shut down connection with build server.
+2025.07.28 14:21:01 INFO  Shut down connection with build server.
+2025.07.28 14:21:01 INFO  Attempting to connect to the build server...
+2025.07.28 14:21:01 INFO  Found a Bloop server running
+2025.07.28 14:21:01 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/jorales/Documentos/Projects/etl-weather-pipeline/.metals/bsp.trace.json or /home/jorales/.cache/metals/bsp.trace.json
+2025.07.28 14:21:03 INFO  Attempting to connect to the build server...
+2025.07.28 14:21:03 INFO  Found a Bloop server running
+2025.07.28 14:21:03 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/jorales/Documentos/Projects/etl-weather-pipeline/project/.metals/bsp.trace.json or /home/jorales/.cache/metals/bsp.trace.json
+2025.07.28 14:21:03 INFO  time: Connected to build server in 2.42s
+2025.07.28 14:21:03 INFO  Connected to Build server: Bloop v2.0.10
+2025.07.28 14:21:03 WARN  2.12.15 is no longer supported in the current Metals versions, using the last known supported version 1.3.3
+2025.07.28 14:21:10 INFO  time: indexed workspace in 6.43s
+2025.07.28 14:21:10 INFO  compiling etl-weather-pipeline (1 scala source)
+2025.07.28 14:21:25 INFO  time: compiled etl-weather-pipeline in 15s
