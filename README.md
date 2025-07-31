@@ -149,7 +149,8 @@ Suggested visualizations:
 <details>
 <summary>📸 Example Dashboard</summary>
 
-*Add screenshots of your Metabase dashboards here*
+![Daily Climate Dashboard](dashboard.png)
+
 
 </details>
 
