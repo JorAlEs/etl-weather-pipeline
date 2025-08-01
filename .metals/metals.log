@@ -1773,3 +1773,18 @@ INFORMACIÓN: Unsupported notification method: $/setTrace
 2025.07.30 13:36:07 INFO  time: Imported build in 0.15s
 2025.07.30 13:36:07 WARN  2.12.15 is no longer supported in the current Metals versions, using the last known supported version 1.3.3
 2025.07.30 13:36:13 INFO  time: indexed workspace in 5.22s
+2025.08.01 11:38:45 INFO  Started: Metals version 1.6.0 in folders '/home/jorales/Documentos/Projects/etl-weather-pipeline' for client Visual Studio Code 1.102.3.
+2025.08.01 11:38:46 INFO  Attempting to connect to the build server...
+2025.08.01 11:38:46 INFO  No running Bloop server found, starting one.
+2025.08.01 11:38:47 INFO  Starting compilation server
+2025.08.01 11:38:48 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/jorales/Documentos/Projects/etl-weather-pipeline/.metals/bsp.trace.json or /home/jorales/.cache/metals/bsp.trace.json
+2025.08.01 11:38:50 INFO  Attempting to connect to the build server...
+2025.08.01 11:38:50 INFO  Found a Bloop server running
+2025.08.01 11:38:50 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/jorales/Documentos/Projects/etl-weather-pipeline/project/.metals/bsp.trace.json or /home/jorales/.cache/metals/bsp.trace.json
+2025.08.01 11:38:50 INFO  time: Connected to build server in 4.29s
+2025.08.01 11:38:50 INFO  Connected to Build server: Bloop v2.0.10
+2025.08.01 11:38:50 INFO  time: Imported build in 0.11s
+2025.08.01 11:38:50 WARN  2.12.15 is no longer supported in the current Metals versions, using the last known supported version 1.3.3
+2025.08.01 11:38:54 INFO  time: indexed workspace in 4.19s
+ago 01, 2025 11:39:17 A. M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFORMACIÓN: Unsupported notification method: $/setTrace
