@@ -1812,3 +1812,31 @@ ADVERTENCIA: Unmatched cancel notification for request id 2
 2025.08.03 20:43:22 INFO  compiling etl-weather-pipeline (1 scala source)
 2025.08.03 20:43:24 INFO  time: compiled etl-weather-pipeline in 1.93s
 2025.08.03 20:43:38 INFO  time: code lens generation in 1.21s
+2025.08.03 21:02:46 INFO  Shutting down server
+2025.08.03 21:02:46 INFO  shutting down Metals
+2025.08.03 21:02:46 INFO  Shut down connection with build server.
+2025.08.03 21:02:46 INFO  Shut down connection with build server.
+2025.08.03 21:02:46 INFO  [0m[31m[E][0m Caught java.lang.NullPointerException: Cannot invoke "scala.collection.immutable.List.filterNot(scala.Function1)" because "sessions" is null
+2025.08.03 21:02:46 INFO  [0m[31m[E][0m Caught java.lang.NullPointerException: Cannot invoke "scala.collection.immutable.List.filterNot(scala.Function1)" because "sessions" is null
+2025.08.03 21:02:46 ERROR Bloop 'bsp' command exited with code 1. Something may be wrong with the current configuration.
+Running the [1mclean[0m sub-command to clear the working directory and remove caches might help.
+If the error persists, please report the issue as a bug and attach a log with increased verbosity by passing [1m-v -v -v[0m.
+2025.08.03 21:02:46 ERROR Bloop 'bsp' command exited with code 1. Something may be wrong with the current configuration.
+Running the [1mclean[0m sub-command to clear the working directory and remove caches might help.
+If the error persists, please report the issue as a bug and attach a log with increased verbosity by passing [1m-v -v -v[0m.
+2025.08.03 21:02:46 INFO  Exiting server
+2025.08.05 10:30:17 INFO  Started: Metals version 1.6.1 in folders '/home/jorales/Documentos/Projects/etl-weather-pipeline' for client Visual Studio Code 1.102.3.
+2025.08.05 10:30:19 INFO  Attempting to connect to the build server...
+2025.08.05 10:30:19 INFO  No running Bloop server found, starting one.
+2025.08.05 10:30:20 INFO  Starting compilation server
+2025.08.05 10:30:21 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/jorales/Documentos/Projects/etl-weather-pipeline/.metals/bsp.trace.json or /home/jorales/.cache/metals/bsp.trace.json
+2025.08.05 10:30:23 INFO  Attempting to connect to the build server...
+2025.08.05 10:30:23 INFO  Found a Bloop server running
+2025.08.05 10:30:23 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/jorales/Documentos/Projects/etl-weather-pipeline/project/.metals/bsp.trace.json or /home/jorales/.cache/metals/bsp.trace.json
+2025.08.05 10:30:23 INFO  time: Connected to build server in 4.85s
+2025.08.05 10:30:23 INFO  Connected to Build server: Bloop v2.0.12
+2025.08.05 10:30:24 INFO  time: Imported build in 0.17s
+2025.08.05 10:30:24 WARN  2.12.15 is no longer supported in the current Metals versions, using the last known supported version 1.3.3
+2025.08.05 10:30:29 INFO  time: indexed workspace in 5.11s
+ago 05, 2025 10:31:42 A. M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFORMACIÓN: Unsupported notification method: $/setTrace

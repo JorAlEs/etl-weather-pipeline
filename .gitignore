@@ -34,3 +34,5 @@ Thumbs.db
 #Big Files
 
 *.deb
+# Script local de arranque automático
+run_etl.sh
